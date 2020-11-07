@@ -1,0 +1,1967 @@
+[
+  {
+    "city": "基隆市",
+    "data": [
+      {
+        "zip": "200",
+        "filename": "200",
+        "area": "仁愛區"
+      },
+      {
+        "zip": "201",
+        "filename": "201",
+        "area": "信義區"
+      },
+      {
+        "zip": "202",
+        "filename": "202",
+        "area": "中正區"
+      },
+      {
+        "zip": "203",
+        "filename": "203",
+        "area": "中山區"
+      },
+      {
+        "zip": "204",
+        "filename": "204",
+        "area": "安樂區"
+      },
+      {
+        "zip": "205",
+        "filename": "205",
+        "area": "暖暖區"
+      },
+      {
+        "zip": "206",
+        "filename": "206",
+        "area": "七堵區"
+      }
+    ]
+  },
+  {
+    "city": "臺北市",
+    "data": [
+      {
+        "zip": "100",
+        "filename": "100",
+        "area": "中正區"
+      },
+      {
+        "zip": "103",
+        "filename": "103",
+        "area": "大同區"
+      },
+      {
+        "zip": "104",
+        "filename": "104",
+        "area": "中山區"
+      },
+      {
+        "zip": "105",
+        "filename": "105",
+        "area": "松山區"
+      },
+      {
+        "zip": "106",
+        "filename": "106",
+        "area": "大安區"
+      },
+      {
+        "zip": "108",
+        "filename": "108",
+        "area": "萬華區"
+      },
+      {
+        "zip": "110",
+        "filename": "110",
+        "area": "信義區"
+      },
+      {
+        "zip": "111",
+        "filename": "111",
+        "area": "士林區"
+      },
+      {
+        "zip": "112",
+        "filename": "112",
+        "area": "北投區"
+      },
+      {
+        "zip": "114",
+        "filename": "114",
+        "area": "內湖區"
+      },
+      {
+        "zip": "115",
+        "filename": "115",
+        "area": "南港區"
+      },
+      {
+        "zip": "116",
+        "filename": "116",
+        "area": "文山區"
+      }
+    ]
+  },
+  {
+    "city": "新北市",
+    "data": [
+      {
+        "zip": "207",
+        "filename": "207",
+        "area": "萬里區"
+      },
+      {
+        "zip": "208",
+        "filename": "208",
+        "area": "金山區"
+      },
+      {
+        "zip": "220",
+        "filename": "220",
+        "area": "板橋區"
+      },
+      {
+        "zip": "221",
+        "filename": "221",
+        "area": "汐止區"
+      },
+      {
+        "zip": "222",
+        "filename": "222",
+        "area": "深坑區"
+      },
+      {
+        "zip": "223",
+        "filename": "223",
+        "area": "石碇區"
+      },
+      {
+        "zip": "224",
+        "filename": "224",
+        "area": "瑞芳區"
+      },
+      {
+        "zip": "226",
+        "filename": "226",
+        "area": "平溪區"
+      },
+      {
+        "zip": "227",
+        "filename": "227",
+        "area": "雙溪區"
+      },
+      {
+        "zip": "228",
+        "filename": "228",
+        "area": "貢寮區"
+      },
+      {
+        "zip": "231",
+        "filename": "231",
+        "area": "新店區"
+      },
+      {
+        "zip": "232",
+        "filename": "232",
+        "area": "坪林區"
+      },
+      {
+        "zip": "233",
+        "filename": "233",
+        "area": "烏來區"
+      },
+      {
+        "zip": "234",
+        "filename": "234",
+        "area": "永和區"
+      },
+      {
+        "zip": "235",
+        "filename": "235",
+        "area": "中和區"
+      },
+      {
+        "zip": "236",
+        "filename": "236",
+        "area": "土城區"
+      },
+      {
+        "zip": "237",
+        "filename": "237",
+        "area": "三峽區"
+      },
+      {
+        "zip": "238",
+        "filename": "238",
+        "area": "樹林區"
+      },
+      {
+        "zip": "239",
+        "filename": "239",
+        "area": "鶯歌區"
+      },
+      {
+        "zip": "241",
+        "filename": "241",
+        "area": "三重區"
+      },
+      {
+        "zip": "242",
+        "filename": "242",
+        "area": "新莊區"
+      },
+      {
+        "zip": "243",
+        "filename": "243",
+        "area": "泰山區"
+      },
+      {
+        "zip": "244",
+        "filename": "244",
+        "area": "林口區"
+      },
+      {
+        "zip": "247",
+        "filename": "247",
+        "area": "蘆洲區"
+      },
+      {
+        "zip": "248",
+        "filename": "248",
+        "area": "五股區"
+      },
+      {
+        "zip": "249",
+        "filename": "249",
+        "area": "八里區"
+      },
+      {
+        "zip": "251",
+        "filename": "251",
+        "area": "淡水區"
+      },
+      {
+        "zip": "252",
+        "filename": "252",
+        "area": "三芝區"
+      },
+      {
+        "zip": "253",
+        "filename": "253",
+        "area": "石門區"
+      }
+    ]
+  },
+  {
+    "city": "桃園市",
+    "data": [
+      {
+        "zip": "320",
+        "filename": "320",
+        "area": "中壢區"
+      },
+      {
+        "zip": "324",
+        "filename": "324",
+        "area": "平鎮區"
+      },
+      {
+        "zip": "325",
+        "filename": "325",
+        "area": "龍潭區"
+      },
+      {
+        "zip": "326",
+        "filename": "326",
+        "area": "楊梅區"
+      },
+      {
+        "zip": "327",
+        "filename": "327",
+        "area": "新屋區"
+      },
+      {
+        "zip": "328",
+        "filename": "328",
+        "area": "觀音區"
+      },
+      {
+        "zip": "330",
+        "filename": "330",
+        "area": "桃園區"
+      },
+      {
+        "zip": "333",
+        "filename": "333",
+        "area": "龜山區"
+      },
+      {
+        "zip": "334",
+        "filename": "334",
+        "area": "八德區"
+      },
+      {
+        "zip": "335",
+        "filename": "335",
+        "area": "大溪區"
+      },
+      {
+        "zip": "336",
+        "filename": "336",
+        "area": "復興區"
+      },
+      {
+        "zip": "337",
+        "filename": "337",
+        "area": "大園區"
+      },
+      {
+        "zip": "338",
+        "filename": "338",
+        "area": "蘆竹區"
+      }
+    ]
+  },
+  {
+    "city": "新竹市",
+    "data": [
+      {
+        "zip": "300",
+        "filename": "300-1",
+        "area": "東區"
+      },
+      {
+        "zip": "300",
+        "filename": "300-2",
+        "area": "北區"
+      },
+      {
+        "zip": "300",
+        "filename": "300-3",
+        "area": "香山區"
+      }
+    ]
+  },
+  {
+    "city": "新竹縣",
+    "data": [
+      {
+        "zip": "302",
+        "filename": "302",
+        "area": "竹北市"
+      },
+      {
+        "zip": "303",
+        "filename": "303",
+        "area": "湖口鄉"
+      },
+      {
+        "zip": "304",
+        "filename": "304",
+        "area": "新豐鄉"
+      },
+      {
+        "zip": "305",
+        "filename": "305",
+        "area": "新埔鎮"
+      },
+      {
+        "zip": "306",
+        "filename": "306",
+        "area": "關西鎮"
+      },
+      {
+        "zip": "307",
+        "filename": "307",
+        "area": "芎林鄉"
+      },
+      {
+        "zip": "308",
+        "filename": "308",
+        "area": "寶山鄉"
+      },
+      {
+        "zip": "310",
+        "filename": "310",
+        "area": "竹東鎮"
+      },
+      {
+        "zip": "311",
+        "filename": "311",
+        "area": "五峰鄉"
+      },
+      {
+        "zip": "312",
+        "filename": "312",
+        "area": "橫山鄉"
+      },
+      {
+        "zip": "313",
+        "filename": "313",
+        "area": "尖石鄉"
+      },
+      {
+        "zip": "314",
+        "filename": "314",
+        "area": "北埔鄉"
+      },
+      {
+        "zip": "315",
+        "filename": "315",
+        "area": "峨眉鄉"
+      }
+    ]
+  },
+  {
+    "city": "苗栗縣",
+    "data": [
+      {
+        "zip": "350",
+        "filename": "350",
+        "area": "竹南鎮"
+      },
+      {
+        "zip": "351",
+        "filename": "351",
+        "area": "頭份市"
+      },
+      {
+        "zip": "352",
+        "filename": "352",
+        "area": "三灣鄉"
+      },
+      {
+        "zip": "353",
+        "filename": "353",
+        "area": "南庄鄉"
+      },
+      {
+        "zip": "354",
+        "filename": "354",
+        "area": "獅潭鄉"
+      },
+      {
+        "zip": "356",
+        "filename": "356",
+        "area": "後龍鎮"
+      },
+      {
+        "zip": "357",
+        "filename": "357",
+        "area": "通霄鎮"
+      },
+      {
+        "zip": "358",
+        "filename": "358",
+        "area": "苑裡鎮"
+      },
+      {
+        "zip": "360",
+        "filename": "360",
+        "area": "苗栗市"
+      },
+      {
+        "zip": "361",
+        "filename": "361",
+        "area": "造橋鄉"
+      },
+      {
+        "zip": "362",
+        "filename": "362",
+        "area": "頭屋鄉"
+      },
+      {
+        "zip": "363",
+        "filename": "363",
+        "area": "公館鄉"
+      },
+      {
+        "zip": "364",
+        "filename": "364",
+        "area": "大湖鄉"
+      },
+      {
+        "zip": "365",
+        "filename": "365",
+        "area": "泰安鄉"
+      },
+      {
+        "zip": "366",
+        "filename": "366",
+        "area": "銅鑼鄉"
+      },
+      {
+        "zip": "367",
+        "filename": "367",
+        "area": "三義鄉"
+      },
+      {
+        "zip": "368",
+        "filename": "368",
+        "area": "西湖鄉"
+      },
+      {
+        "zip": "369",
+        "filename": "369",
+        "area": "卓蘭鎮"
+      }
+    ]
+  },
+  {
+    "city": "臺中市",
+    "data": [
+      {
+        "zip": "400",
+        "filename": "400",
+        "area": "中區"
+      },
+      {
+        "zip": "401",
+        "filename": "401",
+        "area": "東區"
+      },
+      {
+        "zip": "402",
+        "filename": "402",
+        "area": "南區"
+      },
+      {
+        "zip": "403",
+        "filename": "403",
+        "area": "西區"
+      },
+      {
+        "zip": "404",
+        "filename": "404",
+        "area": "北區"
+      },
+      {
+        "zip": "406",
+        "filename": "406",
+        "area": "北屯區"
+      },
+      {
+        "zip": "407",
+        "filename": "407",
+        "area": "西屯區"
+      },
+      {
+        "zip": "408",
+        "filename": "408",
+        "area": "南屯區"
+      },
+      {
+        "zip": "411",
+        "filename": "411",
+        "area": "太平區"
+      },
+      {
+        "zip": "412",
+        "filename": "412",
+        "area": "大里區"
+      },
+      {
+        "zip": "413",
+        "filename": "413",
+        "area": "霧峰區"
+      },
+      {
+        "zip": "414",
+        "filename": "414",
+        "area": "烏日區"
+      },
+      {
+        "zip": "420",
+        "filename": "420",
+        "area": "豐原區"
+      },
+      {
+        "zip": "421",
+        "filename": "421",
+        "area": "后里區"
+      },
+      {
+        "zip": "422",
+        "filename": "422",
+        "area": "石岡區"
+      },
+      {
+        "zip": "423",
+        "filename": "423",
+        "area": "東勢區"
+      },
+      {
+        "zip": "424",
+        "filename": "424",
+        "area": "和平區"
+      },
+      {
+        "zip": "426",
+        "filename": "426",
+        "area": "新社區"
+      },
+      {
+        "zip": "427",
+        "filename": "427",
+        "area": "潭子區"
+      },
+      {
+        "zip": "428",
+        "filename": "428",
+        "area": "大雅區"
+      },
+      {
+        "zip": "429",
+        "filename": "429",
+        "area": "神岡區"
+      },
+      {
+        "zip": "432",
+        "filename": "432",
+        "area": "大肚區"
+      },
+      {
+        "zip": "433",
+        "filename": "433",
+        "area": "沙鹿區"
+      },
+      {
+        "zip": "434",
+        "filename": "434",
+        "area": "龍井區"
+      },
+      {
+        "zip": "435",
+        "filename": "435",
+        "area": "梧棲區"
+      },
+      {
+        "zip": "436",
+        "filename": "436",
+        "area": "清水區"
+      },
+      {
+        "zip": "437",
+        "filename": "437",
+        "area": "大甲區"
+      },
+      {
+        "zip": "438",
+        "filename": "438",
+        "area": "外埔區"
+      },
+      {
+        "zip": "439",
+        "filename": "439",
+        "area": "大安區"
+      }
+    ]
+  },
+  {
+    "city": "彰化縣",
+    "data": [
+      {
+        "zip": "500",
+        "filename": "500",
+        "area": "彰化市"
+      },
+      {
+        "zip": "502",
+        "filename": "502",
+        "area": "芬園鄉"
+      },
+      {
+        "zip": "503",
+        "filename": "503",
+        "area": "花壇鄉"
+      },
+      {
+        "zip": "504",
+        "filename": "504",
+        "area": "秀水鄉"
+      },
+      {
+        "zip": "505",
+        "filename": "505",
+        "area": "鹿港鎮"
+      },
+      {
+        "zip": "506",
+        "filename": "506",
+        "area": "福興鄉"
+      },
+      {
+        "zip": "507",
+        "filename": "507",
+        "area": "線西鄉"
+      },
+      {
+        "zip": "508",
+        "filename": "508",
+        "area": "和美鎮"
+      },
+      {
+        "zip": "509",
+        "filename": "509",
+        "area": "伸港鄉"
+      },
+      {
+        "zip": "510",
+        "filename": "510",
+        "area": "員林市"
+      },
+      {
+        "zip": "511",
+        "filename": "511",
+        "area": "社頭鄉"
+      },
+      {
+        "zip": "512",
+        "filename": "512",
+        "area": "永靖鄉"
+      },
+      {
+        "zip": "513",
+        "filename": "513",
+        "area": "埔心鄉"
+      },
+      {
+        "zip": "514",
+        "filename": "514",
+        "area": "溪湖鎮"
+      },
+      {
+        "zip": "515",
+        "filename": "515",
+        "area": "大村鄉"
+      },
+      {
+        "zip": "516",
+        "filename": "516",
+        "area": "埔鹽鄉"
+      },
+      {
+        "zip": "520",
+        "filename": "520",
+        "area": "田中鎮"
+      },
+      {
+        "zip": "521",
+        "filename": "521",
+        "area": "北斗鎮"
+      },
+      {
+        "zip": "522",
+        "filename": "522",
+        "area": "田尾鄉"
+      },
+      {
+        "zip": "523",
+        "filename": "523",
+        "area": "埤頭鄉"
+      },
+      {
+        "zip": "524",
+        "filename": "524",
+        "area": "溪州鄉"
+      },
+      {
+        "zip": "525",
+        "filename": "525",
+        "area": "竹塘鄉"
+      },
+      {
+        "zip": "526",
+        "filename": "526",
+        "area": "二林鎮"
+      },
+      {
+        "zip": "527",
+        "filename": "527",
+        "area": "大城鄉"
+      },
+      {
+        "zip": "528",
+        "filename": "528",
+        "area": "芳苑鄉"
+      },
+      {
+        "zip": "530",
+        "filename": "530",
+        "area": "二水鄉"
+      }
+    ]
+  },
+  {
+    "city": "南投縣",
+    "data": [
+      {
+        "zip": "540",
+        "filename": "540",
+        "area": "南投市"
+      },
+      {
+        "zip": "541",
+        "filename": "541",
+        "area": "中寮鄉"
+      },
+      {
+        "zip": "542",
+        "filename": "542",
+        "area": "草屯鎮"
+      },
+      {
+        "zip": "544",
+        "filename": "544",
+        "area": "國姓鄉"
+      },
+      {
+        "zip": "545",
+        "filename": "545",
+        "area": "埔里鎮"
+      },
+      {
+        "zip": "546",
+        "filename": "546",
+        "area": "仁愛鄉"
+      },
+      {
+        "zip": "551",
+        "filename": "551",
+        "area": "名間鄉"
+      },
+      {
+        "zip": "552",
+        "filename": "552",
+        "area": "集集鎮"
+      },
+      {
+        "zip": "553",
+        "filename": "553",
+        "area": "水里鄉"
+      },
+      {
+        "zip": "555",
+        "filename": "555",
+        "area": "魚池鄉"
+      },
+      {
+        "zip": "556",
+        "filename": "556",
+        "area": "信義鄉"
+      },
+      {
+        "zip": "557",
+        "filename": "557",
+        "area": "竹山鎮"
+      },
+      {
+        "zip": "558",
+        "filename": "558",
+        "area": "鹿谷鄉"
+      }
+    ]
+  },
+  {
+    "city": "雲林縣",
+    "data": [
+      {
+        "zip": "630",
+        "filename": "630",
+        "area": "斗南鎮"
+      },
+      {
+        "zip": "631",
+        "filename": "631",
+        "area": "大埤鄉"
+      },
+      {
+        "zip": "632",
+        "filename": "632",
+        "area": "虎尾鎮"
+      },
+      {
+        "zip": "633",
+        "filename": "633",
+        "area": "土庫鎮"
+      },
+      {
+        "zip": "634",
+        "filename": "634",
+        "area": "褒忠鄉"
+      },
+      {
+        "zip": "635",
+        "filename": "635",
+        "area": "東勢鄉"
+      },
+      {
+        "zip": "636",
+        "filename": "636",
+        "area": "臺西鄉"
+      },
+      {
+        "zip": "637",
+        "filename": "637",
+        "area": "崙背鄉"
+      },
+      {
+        "zip": "638",
+        "filename": "638",
+        "area": "麥寮鄉"
+      },
+      {
+        "zip": "640",
+        "filename": "640",
+        "area": "斗六市"
+      },
+      {
+        "zip": "643",
+        "filename": "643",
+        "area": "林內鄉"
+      },
+      {
+        "zip": "646",
+        "filename": "646",
+        "area": "古坑鄉"
+      },
+      {
+        "zip": "647",
+        "filename": "647",
+        "area": "莿桐鄉"
+      },
+      {
+        "zip": "648",
+        "filename": "648",
+        "area": "西螺鎮"
+      },
+      {
+        "zip": "649",
+        "filename": "649",
+        "area": "二崙鄉"
+      },
+      {
+        "zip": "651",
+        "filename": "651",
+        "area": "北港鎮"
+      },
+      {
+        "zip": "652",
+        "filename": "652",
+        "area": "水林鄉"
+      },
+      {
+        "zip": "653",
+        "filename": "653",
+        "area": "口湖鄉"
+      },
+      {
+        "zip": "654",
+        "filename": "654",
+        "area": "四湖鄉"
+      },
+      {
+        "zip": "655",
+        "filename": "655",
+        "area": "元長鄉"
+      }
+    ]
+  },
+  {
+    "city": "嘉義市",
+    "data": [
+      {
+        "zip": "600",
+        "filename": "600-1",
+        "area": "西區"
+      },
+      {
+        "zip": "600",
+        "filename": "600-2",
+        "area": "東區"
+      }
+    ]
+  },
+  {
+    "city": "嘉義縣",
+    "data": [
+      {
+        "zip": "602",
+        "filename": "602",
+        "area": "番路鄉"
+      },
+      {
+        "zip": "603",
+        "filename": "603",
+        "area": "梅山鄉"
+      },
+      {
+        "zip": "604",
+        "filename": "604",
+        "area": "竹崎鄉"
+      },
+      {
+        "zip": "605",
+        "filename": "605",
+        "area": "阿里山鄉"
+      },
+      {
+        "zip": "606",
+        "filename": "606",
+        "area": "中埔鄉"
+      },
+      {
+        "zip": "607",
+        "filename": "607",
+        "area": "大埔鄉"
+      },
+      {
+        "zip": "608",
+        "filename": "608",
+        "area": "水上鄉"
+      },
+      {
+        "zip": "611",
+        "filename": "611",
+        "area": "鹿草鄉"
+      },
+      {
+        "zip": "612",
+        "filename": "612",
+        "area": "太保市"
+      },
+      {
+        "zip": "613",
+        "filename": "613",
+        "area": "朴子市"
+      },
+      {
+        "zip": "614",
+        "filename": "614",
+        "area": "東石鄉"
+      },
+      {
+        "zip": "615",
+        "filename": "615",
+        "area": "六腳鄉"
+      },
+      {
+        "zip": "616",
+        "filename": "616",
+        "area": "新港鄉"
+      },
+      {
+        "zip": "621",
+        "filename": "621",
+        "area": "民雄鄉"
+      },
+      {
+        "zip": "622",
+        "filename": "622",
+        "area": "大林鎮"
+      },
+      {
+        "zip": "623",
+        "filename": "623",
+        "area": "溪口鄉"
+      },
+      {
+        "zip": "624",
+        "filename": "624",
+        "area": "義竹鄉"
+      },
+      {
+        "zip": "625",
+        "filename": "625",
+        "area": "布袋鎮"
+      }
+    ]
+  },
+  {
+    "city": "臺南市",
+    "data": [
+      {
+        "zip": "700",
+        "filename": "700",
+        "area": "中西區"
+      },
+      {
+        "zip": "701",
+        "filename": "701",
+        "area": "東區"
+      },
+      {
+        "zip": "702",
+        "filename": "702",
+        "area": "南區"
+      },
+      {
+        "zip": "704",
+        "filename": "704",
+        "area": "北區"
+      },
+      {
+        "zip": "708",
+        "filename": "708",
+        "area": "安平區"
+      },
+      {
+        "zip": "709",
+        "filename": "709",
+        "area": "安南區"
+      },
+      {
+        "zip": "710",
+        "filename": "710",
+        "area": "永康區"
+      },
+      {
+        "zip": "711",
+        "filename": "711",
+        "area": "歸仁區"
+      },
+      {
+        "zip": "712",
+        "filename": "712",
+        "area": "新化區"
+      },
+      {
+        "zip": "713",
+        "filename": "713",
+        "area": "左鎮區"
+      },
+      {
+        "zip": "714",
+        "filename": "714",
+        "area": "玉井區"
+      },
+      {
+        "zip": "715",
+        "filename": "715",
+        "area": "楠西區"
+      },
+      {
+        "zip": "716",
+        "filename": "716",
+        "area": "南化區"
+      },
+      {
+        "zip": "717",
+        "filename": "717",
+        "area": "仁德區"
+      },
+      {
+        "zip": "718",
+        "filename": "718",
+        "area": "關廟區"
+      },
+      {
+        "zip": "719",
+        "filename": "719",
+        "area": "龍崎區"
+      },
+      {
+        "zip": "720",
+        "filename": "720",
+        "area": "官田區"
+      },
+      {
+        "zip": "721",
+        "filename": "721",
+        "area": "麻豆區"
+      },
+      {
+        "zip": "722",
+        "filename": "722",
+        "area": "佳里區"
+      },
+      {
+        "zip": "723",
+        "filename": "723",
+        "area": "西港區"
+      },
+      {
+        "zip": "724",
+        "filename": "724",
+        "area": "七股區"
+      },
+      {
+        "zip": "725",
+        "filename": "725",
+        "area": "將軍區"
+      },
+      {
+        "zip": "726",
+        "filename": "726",
+        "area": "學甲區"
+      },
+      {
+        "zip": "727",
+        "filename": "727",
+        "area": "北門區"
+      },
+      {
+        "zip": "730",
+        "filename": "730",
+        "area": "新營區"
+      },
+      {
+        "zip": "731",
+        "filename": "731",
+        "area": "後壁區"
+      },
+      {
+        "zip": "732",
+        "filename": "732",
+        "area": "白河區"
+      },
+      {
+        "zip": "733",
+        "filename": "733",
+        "area": "東山區"
+      },
+      {
+        "zip": "734",
+        "filename": "734",
+        "area": "六甲區"
+      },
+      {
+        "zip": "735",
+        "filename": "735",
+        "area": "下營區"
+      },
+      {
+        "zip": "736",
+        "filename": "736",
+        "area": "柳營區"
+      },
+      {
+        "zip": "737",
+        "filename": "737",
+        "area": "鹽水區"
+      },
+      {
+        "zip": "741",
+        "filename": "741",
+        "area": "善化區"
+      },
+      {
+        "zip": "742",
+        "filename": "742",
+        "area": "大內區"
+      },
+      {
+        "zip": "743",
+        "filename": "743",
+        "area": "山上區"
+      },
+      {
+        "zip": "744",
+        "filename": "744",
+        "area": "新市區"
+      },
+      {
+        "zip": "745",
+        "filename": "745",
+        "area": "安定區"
+      }
+    ]
+  },
+  {
+    "city": "高雄市",
+    "data": [
+      {
+        "zip": "800",
+        "filename": "800",
+        "area": "新興區"
+      },
+      {
+        "zip": "801",
+        "filename": "801",
+        "area": "前金區"
+      },
+      {
+        "zip": "802",
+        "filename": "802",
+        "area": "苓雅區"
+      },
+      {
+        "zip": "803",
+        "filename": "803",
+        "area": "鹽埕區"
+      },
+      {
+        "zip": "804",
+        "filename": "804",
+        "area": "鼓山區"
+      },
+      {
+        "zip": "805",
+        "filename": "805",
+        "area": "旗津區"
+      },
+      {
+        "zip": "806",
+        "filename": "806",
+        "area": "前鎮區"
+      },
+      {
+        "zip": "807",
+        "filename": "807",
+        "area": "三民區"
+      },
+      {
+        "zip": "811",
+        "filename": "811",
+        "area": "楠梓區"
+      },
+      {
+        "zip": "812",
+        "filename": "812",
+        "area": "小港區"
+      },
+      {
+        "zip": "813",
+        "filename": "813",
+        "area": "左營區"
+      },
+      {
+        "zip": "814",
+        "filename": "814",
+        "area": "仁武區"
+      },
+      {
+        "zip": "815",
+        "filename": "815",
+        "area": "大社區"
+      },
+      {
+        "zip": "817",
+        "filename": "817",
+        "area": "東沙群島"
+      },
+      {
+        "zip": "819",
+        "filename": "819",
+        "area": "南沙群島"
+      },
+      {
+        "zip": "820",
+        "filename": "820",
+        "area": "岡山區"
+      },
+      {
+        "zip": "821",
+        "filename": "821",
+        "area": "路竹區"
+      },
+      {
+        "zip": "822",
+        "filename": "822",
+        "area": "阿蓮區"
+      },
+      {
+        "zip": "823",
+        "filename": "823",
+        "area": "田寮區"
+      },
+      {
+        "zip": "824",
+        "filename": "824",
+        "area": "燕巢區"
+      },
+      {
+        "zip": "825",
+        "filename": "825",
+        "area": "橋頭區"
+      },
+      {
+        "zip": "826",
+        "filename": "826",
+        "area": "梓官區"
+      },
+      {
+        "zip": "827",
+        "filename": "827",
+        "area": "彌陀區"
+      },
+      {
+        "zip": "828",
+        "filename": "828",
+        "area": "永安區"
+      },
+      {
+        "zip": "829",
+        "filename": "829",
+        "area": "湖內區"
+      },
+      {
+        "zip": "830",
+        "filename": "830",
+        "area": "鳳山區"
+      },
+      {
+        "zip": "831",
+        "filename": "831",
+        "area": "大寮區"
+      },
+      {
+        "zip": "832",
+        "filename": "832",
+        "area": "林園區"
+      },
+      {
+        "zip": "833",
+        "filename": "833",
+        "area": "鳥松區"
+      },
+      {
+        "zip": "840",
+        "filename": "840",
+        "area": "大樹區"
+      },
+      {
+        "zip": "842",
+        "filename": "842",
+        "area": "旗山區"
+      },
+      {
+        "zip": "843",
+        "filename": "843",
+        "area": "美濃區"
+      },
+      {
+        "zip": "844",
+        "filename": "844",
+        "area": "六龜區"
+      },
+      {
+        "zip": "845",
+        "filename": "845",
+        "area": "內門區"
+      },
+      {
+        "zip": "846",
+        "filename": "846",
+        "area": "杉林區"
+      },
+      {
+        "zip": "847",
+        "filename": "847",
+        "area": "甲仙區"
+      },
+      {
+        "zip": "848",
+        "filename": "848",
+        "area": "桃源區"
+      },
+      {
+        "zip": "849",
+        "filename": "849",
+        "area": "那瑪夏區"
+      },
+      {
+        "zip": "851",
+        "filename": "851",
+        "area": "茂林區"
+      },
+      {
+        "zip": "852",
+        "filename": "852",
+        "area": "茄萣區"
+      }
+    ]
+  },
+  {
+    "city": "屏東縣",
+    "data": [
+      {
+        "zip": "900",
+        "filename": "900",
+        "area": "屏東市"
+      },
+      {
+        "zip": "901",
+        "filename": "901",
+        "area": "三地門鄉"
+      },
+      {
+        "zip": "902",
+        "filename": "902",
+        "area": "霧臺鄉"
+      },
+      {
+        "zip": "903",
+        "filename": "903",
+        "area": "瑪家鄉"
+      },
+      {
+        "zip": "904",
+        "filename": "904",
+        "area": "九如鄉"
+      },
+      {
+        "zip": "905",
+        "filename": "905",
+        "area": "里港鄉"
+      },
+      {
+        "zip": "906",
+        "filename": "906",
+        "area": "高樹鄉"
+      },
+      {
+        "zip": "907",
+        "filename": "907",
+        "area": "鹽埔鄉"
+      },
+      {
+        "zip": "908",
+        "filename": "908",
+        "area": "長治鄉"
+      },
+      {
+        "zip": "909",
+        "filename": "909",
+        "area": "麟洛鄉"
+      },
+      {
+        "zip": "911",
+        "filename": "911",
+        "area": "竹田鄉"
+      },
+      {
+        "zip": "912",
+        "filename": "912",
+        "area": "內埔鄉"
+      },
+      {
+        "zip": "913",
+        "filename": "913",
+        "area": "萬丹鄉"
+      },
+      {
+        "zip": "920",
+        "filename": "920",
+        "area": "潮州鎮"
+      },
+      {
+        "zip": "921",
+        "filename": "921",
+        "area": "泰武鄉"
+      },
+      {
+        "zip": "922",
+        "filename": "922",
+        "area": "來義鄉"
+      },
+      {
+        "zip": "923",
+        "filename": "923",
+        "area": "萬巒鄉"
+      },
+      {
+        "zip": "924",
+        "filename": "924",
+        "area": "崁頂鄉"
+      },
+      {
+        "zip": "925",
+        "filename": "925",
+        "area": "新埤鄉"
+      },
+      {
+        "zip": "926",
+        "filename": "926",
+        "area": "南州鄉"
+      },
+      {
+        "zip": "927",
+        "filename": "927",
+        "area": "林邊鄉"
+      },
+      {
+        "zip": "928",
+        "filename": "928",
+        "area": "東港鎮"
+      },
+      {
+        "zip": "929",
+        "filename": "929",
+        "area": "琉球鄉"
+      },
+      {
+        "zip": "931",
+        "filename": "931",
+        "area": "佳冬鄉"
+      },
+      {
+        "zip": "932",
+        "filename": "932",
+        "area": "新園鄉"
+      },
+      {
+        "zip": "940",
+        "filename": "940",
+        "area": "枋寮鄉"
+      },
+      {
+        "zip": "941",
+        "filename": "941",
+        "area": "枋山鄉"
+      },
+      {
+        "zip": "942",
+        "filename": "942",
+        "area": "春日鄉"
+      },
+      {
+        "zip": "943",
+        "filename": "943",
+        "area": "獅子鄉"
+      },
+      {
+        "zip": "944",
+        "filename": "944",
+        "area": "車城鄉"
+      },
+      {
+        "zip": "945",
+        "filename": "945",
+        "area": "牡丹鄉"
+      },
+      {
+        "zip": "946",
+        "filename": "946",
+        "area": "恆春鎮"
+      },
+      {
+        "zip": "947",
+        "filename": "947",
+        "area": "滿州鄉"
+      }
+    ]
+  },
+  {
+    "city": "臺東縣",
+    "data": [
+      {
+        "zip": "950",
+        "filename": "950",
+        "area": "臺東市"
+      },
+      {
+        "zip": "951",
+        "filename": "951",
+        "area": "綠島鄉"
+      },
+      {
+        "zip": "952",
+        "filename": "952",
+        "area": "蘭嶼鄉"
+      },
+      {
+        "zip": "953",
+        "filename": "953",
+        "area": "延平鄉"
+      },
+      {
+        "zip": "954",
+        "filename": "954",
+        "area": "卑南鄉"
+      },
+      {
+        "zip": "955",
+        "filename": "955",
+        "area": "鹿野鄉"
+      },
+      {
+        "zip": "956",
+        "filename": "956",
+        "area": "關山鎮"
+      },
+      {
+        "zip": "957",
+        "filename": "957",
+        "area": "海端鄉"
+      },
+      {
+        "zip": "958",
+        "filename": "958",
+        "area": "池上鄉"
+      },
+      {
+        "zip": "959",
+        "filename": "959",
+        "area": "東河鄉"
+      },
+      {
+        "zip": "961",
+        "filename": "961",
+        "area": "成功鎮"
+      },
+      {
+        "zip": "962",
+        "filename": "962",
+        "area": "長濱鄉"
+      },
+      {
+        "zip": "963",
+        "filename": "963",
+        "area": "太麻里鄉"
+      },
+      {
+        "zip": "964",
+        "filename": "964",
+        "area": "金峰鄉"
+      },
+      {
+        "zip": "965",
+        "filename": "965",
+        "area": "大武鄉"
+      },
+      {
+        "zip": "966",
+        "filename": "966",
+        "area": "達仁鄉"
+      }
+    ]
+  },
+  {
+    "city": "花蓮縣",
+    "data": [
+      {
+        "zip": "970",
+        "filename": "970",
+        "area": "花蓮市"
+      },
+      {
+        "zip": "971",
+        "filename": "971",
+        "area": "新城鄉"
+      },
+      {
+        "zip": "972",
+        "filename": "972",
+        "area": "秀林鄉"
+      },
+      {
+        "zip": "973",
+        "filename": "973",
+        "area": "吉安鄉"
+      },
+      {
+        "zip": "974",
+        "filename": "974",
+        "area": "壽豐鄉"
+      },
+      {
+        "zip": "975",
+        "filename": "975",
+        "area": "鳳林鎮"
+      },
+      {
+        "zip": "976",
+        "filename": "976",
+        "area": "光復鄉"
+      },
+      {
+        "zip": "977",
+        "filename": "977",
+        "area": "豐濱鄉"
+      },
+      {
+        "zip": "978",
+        "filename": "978",
+        "area": "瑞穗鄉"
+      },
+      {
+        "zip": "979",
+        "filename": "979",
+        "area": "萬榮鄉"
+      },
+      {
+        "zip": "981",
+        "filename": "981",
+        "area": "玉里鎮"
+      },
+      {
+        "zip": "982",
+        "filename": "982",
+        "area": "卓溪鄉"
+      },
+      {
+        "zip": "983",
+        "filename": "983",
+        "area": "富里鄉"
+      }
+    ]
+  },
+  {
+    "city": "宜蘭縣",
+    "data": [
+      {
+        "zip": "260",
+        "filename": "260",
+        "area": "宜蘭市"
+      },
+      {
+        "zip": "261",
+        "filename": "261",
+        "area": "頭城鎮"
+      },
+      {
+        "zip": "262",
+        "filename": "262",
+        "area": "礁溪鄉"
+      },
+      {
+        "zip": "263",
+        "filename": "263",
+        "area": "壯圍鄉"
+      },
+      {
+        "zip": "264",
+        "filename": "264",
+        "area": "員山鄉"
+      },
+      {
+        "zip": "265",
+        "filename": "265",
+        "area": "羅東鎮"
+      },
+      {
+        "zip": "266",
+        "filename": "266",
+        "area": "三星鄉"
+      },
+      {
+        "zip": "267",
+        "filename": "267",
+        "area": "大同鄉"
+      },
+      {
+        "zip": "268",
+        "filename": "268",
+        "area": "五結鄉"
+      },
+      {
+        "zip": "269",
+        "filename": "269",
+        "area": "冬山鄉"
+      },
+      {
+        "zip": "270",
+        "filename": "270",
+        "area": "蘇澳鎮"
+      },
+      {
+        "zip": "272",
+        "filename": "272",
+        "area": "南澳鄉"
+      },
+      {
+        "zip": "290",
+        "filename": "290",
+        "area": "釣魚臺"
+      }
+    ]
+  },
+  {
+    "city": "澎湖縣",
+    "data": [
+      {
+        "zip": "880",
+        "filename": "880",
+        "area": "馬公市"
+      },
+      {
+        "zip": "881",
+        "filename": "881",
+        "area": "西嶼鄉"
+      },
+      {
+        "zip": "882",
+        "filename": "882",
+        "area": "望安鄉"
+      },
+      {
+        "zip": "883",
+        "filename": "883",
+        "area": "七美鄉"
+      },
+      {
+        "zip": "884",
+        "filename": "884",
+        "area": "白沙鄉"
+      },
+      {
+        "zip": "885",
+        "filename": "885",
+        "area": "湖西鄉"
+      }
+    ]
+  },
+  {
+    "city": "金門縣",
+    "data": [
+      {
+        "zip": "890",
+        "filename": "890",
+        "area": "金沙鎮"
+      },
+      {
+        "zip": "891",
+        "filename": "891",
+        "area": "金湖鎮"
+      },
+      {
+        "zip": "892",
+        "filename": "892",
+        "area": "金寧鄉"
+      },
+      {
+        "zip": "893",
+        "filename": "893",
+        "area": "金城鎮"
+      },
+      {
+        "zip": "894",
+        "filename": "894",
+        "area": "烈嶼鄉"
+      },
+      {
+        "zip": "896",
+        "filename": "896",
+        "area": "烏坵鄉"
+      }
+    ]
+  },
+  {
+    "city": "連江縣",
+    "data": [
+      {
+        "zip": "209",
+        "filename": "209",
+        "area": "南竿鄉"
+      },
+      {
+        "zip": "210",
+        "filename": "210",
+        "area": "北竿鄉"
+      },
+      {
+        "zip": "211",
+        "filename": "211",
+        "area": "莒光鄉"
+      },
+      {
+        "zip": "212",
+        "filename": "212",
+        "area": "東引鄉"
+      }
+    ]
+  }
+]
