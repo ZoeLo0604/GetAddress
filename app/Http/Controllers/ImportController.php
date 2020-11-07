@@ -38,6 +38,7 @@ class ImportController extends Controller
                         $area['city_id'] = $cityId;
                         $area['name'] = $value['area'];
                         $area['zip'] = $value['zip'];
+                        $area['filename'] = $value['filename'];
                         $areaId = $this->addressRepo->createArea($area);
                         if($areaId)
                         {
