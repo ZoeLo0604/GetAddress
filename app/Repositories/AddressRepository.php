@@ -35,4 +35,9 @@ class AddressRepository
     {
         return $this->road->insert($data);
     }
+
+    public function getFileNameByArea($data)
+    {
+        return $this->area->where('name', $data)->pluck('filename')->first();
+    }
 }
