@@ -11,4 +11,11 @@
 |
 */
 
+
 Route::get('/import/address', 'ImportController@importAddress');
+Route::get('/test', 'AddressController@parseAddress');
+Route::post('/getaddress', 'AddressController@getAddress')->name('action.get.address');
+Route::get('/', function () {
+    return view('welcome');
+});
+
