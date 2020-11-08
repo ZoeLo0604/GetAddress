@@ -38,12 +38,12 @@ class ImportController extends Controller
                         $area['city_id'] = $cityId;
                         $area['name'] = $value['area'];
                         $area['zip'] = $value['zip'];
-                        $area['filename'] = $value['filename'];
+                        $area['filename'] = $value['filename'].".json";
                         $areaId = $this->addressRepo->createArea($area);
                         if($areaId)
                         {
                             $roads = [];
-                            $roadsContents = file_get_contents(app_path() . "/imports/address/" . $value['filename'][0] . "/" . $value['filename'] . ".json");
+                            $roadsContents = file_get_contents(app_path() . "/imports/address/" . $value['filename'][0] . "/" . $area['filename']);
                             $roadsData = json_decode($roadsContents, true);
                             foreach($roadsData as $key => $value)
                             {
